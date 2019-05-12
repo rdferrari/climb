@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="25px" viewBox="0 0 16 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>map-marker</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Index" transform="translate(-262.000000, -437.000000)" fill-rule="nonzero" fill="#DC1E65">
+            <g id="map-marker" transform="translate(262.000000, 437.000000)">
+                <g id="Capa_1">
+                    <path d="M7.8125,0 C3.4980957,0 0,3.49731445 0,7.8125 C0,9.02099609 0.274658203,10.1669434 0.765234375,11.1877441 C0.792675781,11.245752 7.8125,25 7.8125,25 L14.7750977,11.3586426 C15.3183105,10.2951172 15.625,9.08964844 15.625,7.8125 C15.625,3.49731445 12.1276855,0 7.8125,0 Z M7.8125,12.5 C5.22382812,12.5 3.125,10.4003906 3.125,7.8125 C3.125,5.22460938 5.22382812,3.125 7.8125,3.125 C10.4003906,3.125 12.5,5.22460938 12.5,7.8125 C12.5,10.4003906 10.4003906,12.5 7.8125,12.5 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="25px" viewBox="0 0 45 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>mountain-summit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Index" transform="translate(-20.000000, -523.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="mountain-summit" transform="translate(20.000000, 523.000000)">
+                <g id="Capa_1">
+                    <path d="M44.9757143,24.6823864 L0,24.6823864 L2.23136905,20.7926136 L9.17824405,8.69943182 C10.4081548,6.56306818 12.4138988,6.56306818 13.6392857,8.69943182 C13.6392857,8.69943182 15.2525893,11.5073864 15.4471131,11.8357955 C16.3711012,10.2306818 21.2947024,1.65625 21.2947024,1.65625 C22.5274405,-0.480113636 24.5320536,-0.480113636 25.7585714,1.65625 L35.541875,18.6835227 C36.0457143,17.8039773 36.5433333,16.9426136 36.9233333,16.2653409 C37.8133929,14.7238636 39.2570536,14.7238636 40.150506,16.2653409 C41.0343452,17.8130682 42.4842262,20.3369318 43.3742857,21.8727273 L44.9757143,24.6823864 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

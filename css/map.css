@@ -1,0 +1,26 @@
+#map {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width:100%;
+    z-index: 0;
+}
+
+#marker {
+  background-image: url('http://ninetoo.com/map-marker/mapa-marker-topos.svg');
+  background-size: cover;
+  width: 26px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.mapboxgl-popup {
+  max-width: 200px;
+  font-family: "Roboto";
+  font-weight: 100;
+  text-align: left;
+}
+
+.text {
+  margin-left: 20px;
+}
