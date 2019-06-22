@@ -151,6 +151,7 @@ ul.info-baixo li {
   font-size: 9px;
   font-weight: 100;
   text-shadow: 0.7px 0.7px rgba(0, 0, 0, 0.5);
+  z-index: 100;
 }
 
 .contato {
